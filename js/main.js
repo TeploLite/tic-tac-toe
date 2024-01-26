@@ -20,7 +20,7 @@ function boxClicked(e) {
     e.target.innerText = currentPlayer;
 
     if (playerHasWon() !== false) {
-      playerText.innerHTML = `${currentPlayer} has won!`;
+      playerText.innerHTML = `${currentPlayer} telah menang!`;
       let winningBlocks = playerHasWon();
       winningBlocks.map((box) => (boxes[box].style.backgroundColor = winnerIndicator));
       console.log(spaces);
