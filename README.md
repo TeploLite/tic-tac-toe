@@ -1,6 +1,6 @@
 # Game simpel tic tac toe
 ## LIVE DEMO
-### https://teplolite.github.io/Naufal.github.io/
+### https://teplolite.github.io/tic-tac-toe/
 ### This is portfolio_website by Naufal
 ### Please star this repo and follow me here on Github so that other can find this repository.
 
